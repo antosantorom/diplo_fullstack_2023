@@ -1,7 +1,18 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(245, 170, 231);
 }
 
-.rosa{
-    color:blueviolet
+
+.contenido{
+    background-color: rgb(234,181,181);
+    padding: 2rem;
+    width: 70%;
+    float: left;
+}
+.contenido__imagen img{
+    width: 100%;
+    box-shadow: 5px 5px rgba(107, 107, 107, 0.492);
+    border-radius: 10px;
+
+
 }
